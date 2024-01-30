@@ -1,2 +1,2 @@
 # Software-Engineering-Website
-The actual files are in the master branch
+The Files related to the website are present in the Master Branch
